@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 
 Try this game
-<p><a href="www.starinthemaze/blog/Sunset/index.html">Sunset</a></p>
+{% link www.starinthemaze/blog/Sunset/index.html %}
