@@ -7,4 +7,5 @@ categories: jekyll update
 
 Try this game
 
-[Sunset]({% link /blog/Sunset/index.html %}) to the pre-rendered.
+[Sunset]({{ site.baseurl }}{% link /blog/Sunset/index.html %})
+
