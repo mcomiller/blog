@@ -7,5 +7,5 @@ categories: jekyll update
 
 Try this game
 
-[Sunset]({{ site.baseurl }}{% link /blog/Sunset/index.html %})
+
 
