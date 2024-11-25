@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 
 Try this game
-{% link www.starinthemaze/blog/Sunset/index.html %}
+[Sunset]({% link www.starinthemaze/blog/Sunset/index.html %})
