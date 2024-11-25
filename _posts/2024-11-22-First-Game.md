@@ -7,4 +7,4 @@ categories: jekyll update
 
 Try this game
 
-[Sunset]({{ starinthemaze.com/blog }}{% link /Sunset/index.html %})
+[Sunset]({{ starinthemaze.com }}{% link /blog/Sunset/index.html %})
