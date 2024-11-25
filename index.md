@@ -4,4 +4,3 @@
 
 layout: home
 ---
-Hello world! Still trying to change this. If you know what I mean.
