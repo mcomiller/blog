@@ -7,4 +7,4 @@ categories: jekyll update
 
 Try this game
 
-[Sunset]({{ starinthemaze.com }}{% link /blog/Sunset/index.html %})
+[Sunset]({% link /blog/Sunset/index.html %}) to the pre-rendered.
