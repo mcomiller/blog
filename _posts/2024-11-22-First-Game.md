@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 
 Try this game
-<p><a href="/../Sunset/index.html">Sunset</a></p>
+<p><a href="/Sunset/index.html">Sunset</a></p>
