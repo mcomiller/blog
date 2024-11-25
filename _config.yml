@@ -24,7 +24,7 @@ github_username:  mcomiller
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: leap-day
 plugins:
   - jekyll-feed
 
